@@ -1,4 +1,4 @@
-package test.sandbox;
+package ru.stqa.pft.sandbox;
 
 public class MyFirstApp{
 	public static void main(String[] args){
